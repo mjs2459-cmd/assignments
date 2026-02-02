@@ -1,5 +1,6 @@
 # Mary Salvador
 
+## Spirit Animal
 ![Spirit Animal: Cat](cat.jpg)
 
 ## Education
