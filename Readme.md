@@ -9,3 +9,5 @@
 - [Basic Python and Functions Repository](https://github.com/mjs2459-cmd/assignment4)
 ## Numpy and Matplotlib Homework 5
 - [Numpy and Matplotlib Repository](https://github.com/mjs2459-cmd/numpymatplotlibhw)
+## More Matplotlib Homework 6
+- [More Matplotlib Repository](https://github.com/mjs2459-cmd/MoreMatplotlib)
