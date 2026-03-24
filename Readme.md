@@ -1,7 +1,7 @@
 # Mary Salvador
 ## Resume Homework 1
 - [My Resume Repository](https://github.com/mjs2459-cmd/resume)
- ## Unix Homework 2
+ ## Unix Homework
 - [Unix Repository](https://github.com/mjs2459-cmd/unix-hw2)
 ## Data Formats and Access Homework 3 
 -  [Data Formats and Access Repository](https://github.com/mjs2459-cmd/Hw3/tree/main)
@@ -11,3 +11,5 @@
 - [Numpy and Matplotlib Repository](https://github.com/mjs2459-cmd/numpymatplotlibhw)
 ## More Matplotlib Homework 6
 - [More Matplotlib Repository](https://github.com/mjs2459-cmd/MoreMatplotlib)
+## Pandas Fundamentals with Earthquake Data Homework 7
+- [Pandas Fundamentals Repository](https://github.com/mjs2459-cmd/pandashw7)
