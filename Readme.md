@@ -13,3 +13,5 @@
 - [More Matplotlib Repository](https://github.com/mjs2459-cmd/MoreMatplotlib)
 ## Pandas Fundamentals with Earthquake Data Homework 7
 - [Pandas Fundamentals Repository](https://github.com/mjs2459-cmd/pandashw7)
+## Pandas Groupby with Hurricane Data Homework 8
+- [Pandas Groupby Repository](https://github.com/mjs2459-cmd/Hw8)
