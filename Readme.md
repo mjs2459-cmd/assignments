@@ -15,5 +15,5 @@
 - [Pandas Fundamentals Repository](https://github.com/mjs2459-cmd/pandashw7)
 ## Pandas Groupby with Hurricane Data Homework 8
 - [Pandas Groupby Repository](https://github.com/mjs2459-cmd/Hw8)
-## Final Project Proposal
+## Final Project Proposal Description Homework 9
 - [Project Proposal Repository](https://github.com/mjs2459-cmd/project-proposal-)
